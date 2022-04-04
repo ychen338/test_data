@@ -1,4 +1,0 @@
-name	contigs_db_path
-af	/home/ychen338/genome/Abx/abx_test/Abx_bacteroidetes_af.db
-bd	/home/ychen338/genome/Abx/abx_test/Abx_bacteroidetes_bd.db
-pd	/home/ychen338/genome/Abx/abx_test/Abx_bacteroidetes_pd.db
